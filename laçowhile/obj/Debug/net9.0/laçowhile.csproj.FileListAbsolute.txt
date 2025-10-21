@@ -1,0 +1,14 @@
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\bin\Debug\net9.0\laçowhile.exe
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\bin\Debug\net9.0\laçowhile.deps.json
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\bin\Debug\net9.0\laçowhile.runtimeconfig.json
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\bin\Debug\net9.0\laçowhile.dll
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\bin\Debug\net9.0\laçowhile.pdb
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.AssemblyInfoInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.AssemblyInfo.cs
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.csproj.CoreCompileInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.dll
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\refint\laçowhile.dll
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.pdb
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\laçowhile.genruntimeconfig.cache
+C:\Users\54197202806\Desktop\Back_End_T\laçowhile\obj\Debug\net9.0\ref\laçowhile.dll

@@ -1,0 +1,14 @@
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\bin\Debug\net9.0\exercico3.exe
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\bin\Debug\net9.0\exercico3.deps.json
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\bin\Debug\net9.0\exercico3.runtimeconfig.json
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\bin\Debug\net9.0\exercico3.dll
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\bin\Debug\net9.0\exercico3.pdb
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.AssemblyInfoInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.AssemblyInfo.cs
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.csproj.CoreCompileInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.dll
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\refint\exercico3.dll
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.pdb
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\exercico3.genruntimeconfig.cache
+C:\Users\54197202806\Desktop\Back_End_T\exercico3\obj\Debug\net9.0\ref\exercico3.dll
