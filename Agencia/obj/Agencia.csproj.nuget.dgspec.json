@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\54197202806\\Desktop\\Back_End_T\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu.csproj": {}
+    "C:\\Users\\54197202806\\Desktop\\Back_End_T\\Agencia\\Agencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\54197202806\\Desktop\\Back_End_T\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu.csproj": {
+    "C:\\Users\\54197202806\\Desktop\\Back_End_T\\Agencia\\Agencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\54197202806\\Desktop\\Back_End_T\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu.csproj",
-        "projectName": "DesafioCalculadoraMenu",
-        "projectPath": "C:\\Users\\54197202806\\Desktop\\Back_End_T\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu.csproj",
+        "projectUniqueName": "C:\\Users\\54197202806\\Desktop\\Back_End_T\\Agencia\\Agencia.csproj",
+        "projectName": "Agencia",
+        "projectPath": "C:\\Users\\54197202806\\Desktop\\Back_End_T\\Agencia\\Agencia.csproj",
         "packagesPath": "C:\\Users\\54197202806\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\54197202806\\Desktop\\Back_End_T\\DesafioCalculadoraMenu\\DesafioCalculadoraMenu\\obj\\",
+        "outputPath": "C:\\Users\\54197202806\\Desktop\\Back_End_T\\Agencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\54197202806\\AppData\\Roaming\\NuGet\\NuGet.Config"
