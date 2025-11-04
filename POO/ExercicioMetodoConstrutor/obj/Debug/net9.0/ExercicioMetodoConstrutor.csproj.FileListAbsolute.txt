@@ -1,0 +1,15 @@
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\bin\Debug\net9.0\ExercicioMetodoConstrutor.exe
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\bin\Debug\net9.0\ExercicioMetodoConstrutor.deps.json
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\bin\Debug\net9.0\ExercicioMetodoConstrutor.runtimeconfig.json
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\bin\Debug\net9.0\ExercicioMetodoConstrutor.dll
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\bin\Debug\net9.0\ExercicioMetodoConstrutor.pdb
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.AssemblyInfoInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.AssemblyInfo.cs
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.sourcelink.json
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.dll
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\refint\ExercicioMetodoConstrutor.dll
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.pdb
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ExercicioMetodoConstrutor.genruntimeconfig.cache
+C:\Users\54197202806\Desktop\Back_End_T\POO\ExercicioMetodoConstrutor\obj\Debug\net9.0\ref\ExercicioMetodoConstrutor.dll
