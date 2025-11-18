@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodoConstrutor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b961ca2809f9aac2e08796de2d0721b80cd1fbf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2c83673625e78b44a75b435ebfde38d2c81e636")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodoConstrutor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodoConstrutor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

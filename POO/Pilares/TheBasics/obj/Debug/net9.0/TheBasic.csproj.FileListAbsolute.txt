@@ -1,0 +1,15 @@
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasic.exe
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasic.deps.json
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasic.runtimeconfig.json
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasic.dll
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasic.pdb
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.AssemblyInfoInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.AssemblyInfo.cs
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.csproj.CoreCompileInputs.cache
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.sourcelink.json
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.dll
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\refint\TheBasic.dll
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.pdb
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasic.genruntimeconfig.cache
+C:\Users\54197202806\Desktop\Back_End_T\POO\Pilares\TheBasics\obj\Debug\net9.0\ref\TheBasic.dll
